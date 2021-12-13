@@ -1,4 +1,4 @@
-//referenced off of the minim example
+
 import processing.opengl.*;
 import ddf.minim.*;
 import ddf.minim.ugens.*;
