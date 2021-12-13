@@ -104,5 +104,5 @@ void draw()
     fill(#08BFFF);
   }
       
-  rect(10+beat*37, 35, 20, 210);
+  rect(10+beat*37, 35, 20, 215);
 }
